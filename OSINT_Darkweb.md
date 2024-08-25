@@ -2,7 +2,7 @@ Back to index page
 
 
 [What is the Dark Web?](#What is the Dark Web?)
-[Challenges Faced in OSINT on the Dark Web](#Challenges-Faced-in-OSINT-on-the-Dark-Web)
+[Challenges Faced in OSINT on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#challenges-faced-in-osint-on-the-dark-web))
 
 
 

@@ -1,3 +1,13 @@
+Back to index page
+
+
+[What is the Dark Web?](#What is the Dark Web?)
+[Importance of OSINT in Analyzing the Dark Web](#Importance of OSINT in Analyzing the Dark Web)
+[What is the Dark Web?](#What is the Dark Web?)
+[What is the Dark Web?](#What is the Dark Web?)
+[What is the Dark Web?](#What is the Dark Web?)
+
+
 Open Source Intelligence (OSINT) refers to the process of collecting and analyzing publicly available information from various sources. When it comes to the dark web, OSINT can be particularly challenging yet rewarding. The dark web is a part of the internet that isn't indexed by traditional search engines and requires specific software, configurations, or authorization to access.
 
 ##### What is the Dark Web?

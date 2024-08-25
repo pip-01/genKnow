@@ -4,12 +4,12 @@
 [What is the Dark Web?](https://pip-01.github.io/genKnow/OSINT_Darkweb#what-is-the-dark-web)  
 [Importance of OSINT in Analyzing the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#importance-of-osint-in-analyzing-the-dark-web)  
 [Key Concepts in OSINT Collection on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#key-concepts-in-osint-collection-on-the-dark-web)  
-[Practical Examples](https://pip-01.github.io/genKnow/OSINT_Darkweb#practical-examples)  
 [Challenges Faced in OSINT on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#challenges-faced-in-osint-on-the-dark-web)  
-[]()
+[1.0 Overview]()
 []()
 []()
 
+##### 1.0 Overview
 Open Source Intelligence (OSINT) refers to the process of collecting and analyzing publicly available information from various sources. When it comes to the dark web, OSINT can be particularly challenging yet rewarding. The dark web is a part of the internet that isn't indexed by traditional search engines and requires specific software, configurations, or authorization to access.
 
 ##### What is the Dark Web?

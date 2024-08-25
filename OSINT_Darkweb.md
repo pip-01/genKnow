@@ -1,11 +1,11 @@
 [Back to index page](https://pip-01.github.io/genKnow/)
 
 
-[What is the Dark Web?](https://pip-01.github.io/genKnow/OSINT_Darkweb#what-is-the-dark-web)
-[Importance of OSINT in Analyzing the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#importance-of-osint-in-analyzing-the-dark-web)
-[Key Concepts in OSINT Collection on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#key-concepts-in-osint-collection-on-the-dark-web)
-[Practical Examples](https://pip-01.github.io/genKnow/OSINT_Darkweb#practical-examples)
-[Challenges Faced in OSINT on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#challenges-faced-in-osint-on-the-dark-web)
+[What is the Dark Web?](https://pip-01.github.io/genKnow/OSINT_Darkweb#what-is-the-dark-web)  
+[Importance of OSINT in Analyzing the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#importance-of-osint-in-analyzing-the-dark-web)  
+[Key Concepts in OSINT Collection on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#key-concepts-in-osint-collection-on-the-dark-web)  
+[Practical Examples](https://pip-01.github.io/genKnow/OSINT_Darkweb#practical-examples)  
+[Challenges Faced in OSINT on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#challenges-faced-in-osint-on-the-dark-web)  
 []()
 []()
 []()

@@ -16,7 +16,7 @@
 [11. Future Trends in OSINT on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#11-future-trends-in-osint-on-the-dark-web)  
 []()
   
-<img align="left" padding:10px; src="Marketplaces.jpg" alt="drawing" width="300"/>
+<img align="left" padding:"10px" src="Marketplaces.jpg" alt="drawing" width="300"/>
   
 ### 1. Introduction to OSINT
 Open Source Intelligence (OSINT) refers to the process of collecting and analyzing publicly available information from various sources. When it comes to the dark web, OSINT can be particularly challenging yet rewarding. The dark web is a part of the internet that isn't indexed by traditional search engines and requires specific software, configurations, or authorization to access.

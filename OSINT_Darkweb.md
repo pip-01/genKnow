@@ -16,7 +16,7 @@
 [11. Future Trends in OSINT on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#11-future-trends-in-osint-on-the-dark-web)  
 []()
   
-<img align="left" src="Marketplaces.jpg" alt="drawing" width="300"/>
+<img align="right" src="imgOSINT Introduction.jpg" alt="drawing" width="300"/>
   
 ### 1. Introduction to OSINT
 Open Source Intelligence (OSINT) refers to the process of collecting and analyzing publicly available information from various sources. When it comes to the dark web, OSINT can be particularly challenging yet rewarding. The dark web is a part of the internet that isn't indexed by traditional search engines and requires specific software, configurations, or authorization to access.
@@ -122,6 +122,7 @@ When engaging in OSINT activities on the dark web, it's essential to adhere to l
     
 As an illustration, if you're researching illegal drug sales on a forum but find personal information about sellers unintentionally exposed during your research process—it's crucial to handle this information sensitively without disclosing it further.
 
+<img align="right" src="imgDark Web OSINT.jpg" alt="drawing" width="300"/>
    
 [Top](https://pip-01.github.io/genKnow/OSINT_Darkweb)  
 ### 2. Overview of the Dark Web 
@@ -184,6 +185,7 @@ There are several myths surrounding the dark web that can lead to misunderstandi
 By debunking these misconceptions about the dark web's nature and purpose, we can better understand its role in both criminality and advocacy for freedom of expression without compromising security or ethical standards in our exploration efforts using OSINT techniques.
 Open Source Intelligence (OSINT) refers to the process of collecting and analyzing publicly available information from various sources. When it comes to the dark web, OSINT can provide valuable insights into activities that may not be easily accessible through traditional means. The dark web is a part of the internet that requires specific software and configurations to access, often associated with anonymity and privacy.
   
+<img align="right" src="imgOSINT Tools.jpg" alt="drawing" width="300"/>
   
 [Top](https://pip-01.github.io/genKnow/OSINT_Darkweb)  
 ### 3. Tools and Techniques for Dark Web OSINT 
@@ -248,6 +250,7 @@ Dark web marketplaces can be compared to eBay or Amazon but with a focus on ille
 - **Decentralization**: Many marketplaces do not have a central authority controlling them.
 - **Variety**: A wide range of goods and services are available, from legal to illegal.
   
+<img align="right" src="imgMarketplaces.jpg" alt="drawing" width="300"/>
   
 [Top](https://pip-01.github.io/genKnow/OSINT_Darkweb)  
 ### 4. Dark Web Marketplaces 
@@ -317,7 +320,8 @@ Understanding how these systems work will help you make informed decisions when 
 By grasping these concepts related to dark web marketplaces—overview details, types of goods/services offered, navigation tips ,and trust mechanisms—you'll gain valuable insights into operating safely within this complex digital landscape!
 Open Source Intelligence (OSINT) refers to the process of collecting information from publicly available sources. The dark web, a part of the internet that is not indexed by traditional search engines, contains various forums and social networks where valuable information can be gathered. Understanding how to navigate these spaces is crucial for effective OSINT.
   
-  
+<img align="right" src="imgDark Web OSINT.jpg" alt="drawing" width="300"/>
+ 
 [Top](https://pip-01.github.io/genKnow/OSINT_Darkweb)  
 ### 5. Forums and Social Networks on the Dark Web 
 
@@ -363,7 +367,8 @@ Understanding these platforms helps investigators gather actionable intelligence
 
 Exploring forums and social networks on the dark web opens up new avenues for gathering open-source intelligence. By recognizing different types of forums, identifying key sites relevant to your research needs, and understanding alternative social media platforms available in this space, you enhance your ability to gather meaningful insights effectively while navigating complex ethical landscapes.
 The dark web is a part of the internet that isn't indexed by traditional search engines. It requires specific software, configurations, or authorization to access. Within this realm, cryptocurrency plays a significant role in facilitating anonymous transactions. Understanding how cryptocurrencies operate on the dark web can provide valuable insights into broader financial trends and security concerns.
-  
+
+<img align="right" src="imgDark Web OSINT.jpg" alt="drawing" width="300"/>  
   
 [Top](https://pip-01.github.io/genKnow/OSINT_Darkweb)  
 ### 6. Cryptocurrency and Financial Transactions 

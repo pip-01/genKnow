@@ -2,6 +2,8 @@
   
 
 ## <u>OSINT on the dark web</u>
+
+#### Course Outline:
   
 [1. Introduction to OSINT](https://pip-01.github.io/genKnow/OSINT_Darkweb#10-overview)  
 [2. Overview of the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#2-overview-of-the-dark-web)  

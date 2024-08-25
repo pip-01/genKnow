@@ -3,7 +3,7 @@
 
 
 [1. Introduction to OSINT](https://pip-01.github.io/genKnow/OSINT_Darkweb#10-overview)  
-[2. Overview of the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#what-is-the-dark-web)  
+[2. Overview of the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#2-overview-of-the-dark-web)  
 [3. Tools and Techniques for Dark Web OSINT](https://pip-01.github.io/genKnow/OSINT_Darkweb#3-tools-and-techniques-for-dark-web-osint)  
 [4. Dark Web Marketplaces](https://pip-01.github.io/genKnow/OSINT_Darkweb#4-dark-web-marketplaces)  
 [5. Forums and Social Networks on the Dark Web](https://pip-01.github.io/genKnow/OSINT_Darkweb#5-forums-and-social-networks-on-the-dark-web)  
